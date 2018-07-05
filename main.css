@@ -1,0 +1,15 @@
+h1{
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+h3{
+    background-color: brown;
+    color: whitesmoke;
+}
+p{
+    background-color: darkgreen;
+    color: yellow;
+}
+h1+h3{
+    color: bisque;
+}
